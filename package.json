@@ -1,0 +1,17 @@
+{
+  "name": "kipso",
+  "version": "1.0.0",
+  "description": "Kipso - Vue Nuxt Online Education Learning & LMS Template",
+  "author": "Layerdrops",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
